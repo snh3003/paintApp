@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "969d7e68ca40a7f05be77e925f50c3b1",
+    "revision": "86b2a478e1fdd9d2c015f2377a7c78c3",
     "url": "/paintapp/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/paintapp/static/js/2.a0232257.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "288ca929c8bbf6579093",
-    "url": "/paintapp/static/js/main.24b675c7.chunk.js"
+    "revision": "58974fc3d7882d99d21f",
+    "url": "/paintapp/static/js/main.2291ef23.chunk.js"
   },
   {
     "revision": "f65ba2aef709fedfa405",
