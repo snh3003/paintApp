@@ -7,7 +7,7 @@ export default function App() {
       <center>
         <h1> A simple paint app using React Hooks </h1>
       </center>
-    <Paint />
+      <Paint />
     </div>
   )
 }
